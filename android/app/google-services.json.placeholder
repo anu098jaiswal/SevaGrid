@@ -1,0 +1,10 @@
+{
+  "_INSTRUCTIONS": "REPLACE THIS FILE with the real google-services.json downloaded from Firebase Console.",
+  "_STEPS": [
+    "1. Go to https://console.firebase.google.com",
+    "2. Open your project → Project Settings → Your Apps",
+    "3. Add Android app with package name: com.communityworkers",
+    "4. Download google-services.json",
+    "5. Place it here: android/app/google-services.json (replacing this file)"
+  ]
+}
